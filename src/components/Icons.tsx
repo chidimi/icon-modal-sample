@@ -1,7 +1,7 @@
 import React from 'react'
 import { FcBusinessman, FcBusinesswoman, FcAssistant, FcLike, FcElectricity, FcHeadset, FcLinux, FcStart, FcVip } from 'react-icons/fc'
 
-export default function Icons() {
+export default function Icons() : JSX.Element {
   return (
     <>
       <div className="flex">
